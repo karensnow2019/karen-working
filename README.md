@@ -1,6 +1,3 @@
 # ExGp1
-Exercise Group 1
+Exercise Group 1 IST303 Spring 2019
 
-## Change by Terry
-
-## Change by Gabriel
